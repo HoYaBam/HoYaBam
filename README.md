@@ -7,7 +7,7 @@
 <img src = "https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" />
 
 <img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 <br><br>
 
 <Strong>Stats</Strong><br>
