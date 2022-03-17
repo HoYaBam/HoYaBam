@@ -8,5 +8,5 @@ Tech Stack <br>
 
 <br><br>
 
-Stats
+<Strong>Stat</Strong>s<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoYaBam)](https://github.com/anuraghazra/github-readme-stats)
